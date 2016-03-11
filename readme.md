@@ -5,5 +5,5 @@ Author: Sina Tashakkori
 
 How to run
 -----------
-npm install\n
-node index.js\n
+npm install  
+node index.js  
