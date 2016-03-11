@@ -1,0 +1,25 @@
+{
+	"name": "sumo",
+		"version": "1.0.0",
+		"description": "sumo",
+		"main": "index.js",
+		"dependencies": {
+			"body-parser": "^1.15.0",
+			"debug": "^2.2.0",
+			"ejs": "^2.4.1",
+			"express": "^4.13.4"
+		},
+		"devDependencies": {},
+		"scripts": {
+			"test": "sumo"
+		},
+		"repository": {
+			"type": "git",
+			"url": "sumo"
+		},
+		"keywords": [
+			"sumo"
+			],
+		"author": "Sina",
+		"license": "ISC"
+}
