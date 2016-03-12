@@ -1,25 +1,30 @@
 {
-	"name": "sumo",
-		"version": "1.0.0",
-		"description": "sumo",
-		"main": "index.js",
-		"dependencies": {
-			"body-parser": "^1.15.0",
-			"debug": "^2.2.0",
-			"ejs": "^2.4.1",
-			"express": "^4.13.4"
-		},
-		"devDependencies": {},
-		"scripts": {
-			"test": "sumo"
-		},
-		"repository": {
-			"type": "git",
-			"url": "sumo"
-		},
-		"keywords": [
-			"sumo"
-			],
-		"author": "Sina",
-		"license": "ISC"
+  "name": "sumo",
+  "version": "1.0.0",
+  "description": "sumo",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-session": "^2.0.0-alpha.1",
+    "debug": "^2.2.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2",
+    "path": "^0.12.7",
+    "sequelize": "^2.0.0-rc1",
+    "sequelize-cli": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sumo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sumo"
+  },
+  "keywords": [
+    "sumo"
+  ],
+  "author": "Sina",
+  "license": "ISC"
 }
